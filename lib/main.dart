@@ -4,6 +4,7 @@ import 'package:flutter_spinkit/flutter_spinkit.dart';
 import 'package:google_nav_bar/google_nav_bar.dart';
 
 import 'homeScreen.dart';
+import "Login.dart";
 
 void main() {
   runApp(MyApp());
@@ -11,7 +12,7 @@ void main() {
 
 class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
-    return MaterialApp(home: SplashScreen());
+    return MaterialApp(home: LoginPage());
   }
 }
 

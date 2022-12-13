@@ -10,6 +10,7 @@ class DonutTab extends StatelessWidget {
     ["onion", "45", Colors.purple, "Images/onion.png", "Text2"],
     ["Rice", "84", Colors.yellow, "Images/rice.png", "Text3"],
     ["Cucumber", "95", Colors.green, "Images/cucumber.png", "Text4"],
+    ["Carrot", "25", Colors.orange, "Images/carrot.png", "Text5"]
   ];
 
   @override
